@@ -14,6 +14,6 @@
 - Python (NumPy, Pandas, Matplotlib, Seaborn,
 Scikit-learn, Tensorflow-Keras, Streamlit,
 Jupyter, VSCode)</p>
-<p align="left"> - SQL (Postgre, MySQL, BigQuery) )</p>
+<p align="left"> - SQL (Postgre, MySQL, BigQuery)</p>
 <p align="left"> - Machine Learning / Deep Learning (CNNs, NLP)
 GitHub </p>
