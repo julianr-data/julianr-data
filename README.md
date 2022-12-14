@@ -1,4 +1,4 @@
-<h4 align="left">I'm Julian, recovering professional musician turned data analyst</h3>
+<h4 align="left">Recovering professional musician turned data analyst</h3>
 
 - ⚒️ Currently working on [Game Detective](https://mauro-vb-game-shazam-appapp-streamlit-front-cezsjk.streamlit.app/) with [mauro-vb](https://github.com/mauro-vb/) and [WideRoger](https://github.com/WideRoger)
 - 📫 Reach me at julianr.data@gmail.com
