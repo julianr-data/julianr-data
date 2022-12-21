@@ -1,6 +1,6 @@
 - ⚒️ Currently working on [Game Detective](https://mauro-vb-game-shazam-appapp-streamlit-front-cezsjk.streamlit.app/) with [mauro-vb](https://github.com/mauro-vb/) and [WideRoger](https://github.com/WideRoger)
 - 📫 Reach me at julianr.data@gmail.com
-- 🖥️ Or find me on [Linkedin](https://www.linkedin.com/in/julianrdata/) | [Kaggle](https://www.kaggle.com/juliandresrodriguez)
+- 🖥️ Or find me on [Linkedin](https://www.linkedin.com/in/julianrdata/) | [Kaggle](https://www.kaggle.com/julianrdata)
 - ❓ Ask me about **Grim Fandango**
 
 <p align="left">Languages and Tools:</p>
